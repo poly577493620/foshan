@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+output-smoke/
+~$*.xlsx
+.env
+.env.*
+
+# CLAUDE.md 仅本地开发规范，不提交
+CLAUDE.md
